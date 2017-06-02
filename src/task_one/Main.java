@@ -1,4 +1,4 @@
-package by.it.zyryanov.jd01_02;
+package task_one;
 
 public class Main {
 
