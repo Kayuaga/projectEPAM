@@ -36,7 +36,7 @@ public class HTMLcode {
     }
 
 
-
+// это метод пустышка сразу его удаляй . Никогда не пиши методы,которые на вход принимают значения , а потом их не используют
     public void style(String color1, String color2){
         String styleBegin = "<style>";
         String styleEnd = "</style>";
