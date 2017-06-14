@@ -6,6 +6,10 @@ import java.util.Formatter;
 /**
  * Created by georgijzyranov on 13.06.17.
  */
+//Сначала , что ты должен сделать оформить правильно классы.Давай им нормальные названия,так же как
+//и методам, чтобы любой человек мог понять , что делает твой код.Струкутура класса в java идет сначала обьявление полей класса,
+// далее конструкторы , далее методы класса, далее get , set методы.
+
 public class Class {
 
     public String getGradient(String color1, String color2, String numb) {
